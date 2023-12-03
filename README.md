@@ -1,4 +1,4 @@
 # web-browser
 Web Browser for Android
 # android-playground
-Mess with Android.
+Mess with Android's features
