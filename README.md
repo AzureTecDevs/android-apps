@@ -1,4 +1,6 @@
 # web-browser
-Web Browser for Android
+Web browser for Android
 # android-playground
 Mess with Android's features
+# terminal-v2
+A ZX terminal
