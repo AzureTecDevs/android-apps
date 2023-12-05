@@ -1,0 +1,5 @@
+out,,60+92=
+math,,add,,60,,92
+out,,52-47=
+math,,sub,,52,,47
+// Add/subtract values
